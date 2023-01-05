@@ -17,7 +17,13 @@ Java, IntelliJ IDEA, MySQL, PostgreSQL, Allure, Report Portal, Postman, Selenium
   *[Курсовой проект](https://github.com/netology-code/aqa-qamid-diplom)*  
   *[Решение](https://github.com/nancygespens/Aqa_qamid_CourseWork.git)*  
   
-* **Продолжаю учёбу** по программе [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle#/lessons)  
+* **Продолжаю учёбу** по программе [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle#/lessons) 
+
+### Сертификаты
+* [Ручное тестирование веб-приложений](https://github.com/nancygespens/AnastasiaTelesnitckaya/blob/6631642b4b33f22c98db5b1af473aed92058fa37/Certificates/certificate.pdf) 
+* [Git — система контроля версий](https://github.com/nancygespens/AnastasiaTelesnitckaya/blob/6631642b4b33f22c98db5b1af473aed92058fa37/Certificates/certificate%20(1).pdf)
+* [Java для тестировщиков](https://github.com/nancygespens/AnastasiaTelesnitckaya/blob/6631642b4b33f22c98db5b1af473aed92058fa37/Certificates/certificate%20(2).pdf)
+* [Автоматизированное тестирование](https://github.com/nancygespens/AnastasiaTelesnitckaya/blob/6631642b4b33f22c98db5b1af473aed92058fa37/Certificates/certificate%20(3).pdf)
 
 #### P.S. Ещё чуть-чуть и освою 🎉
 JavaScript, Android Studio, Espresso, Jenkins, Linux, тестирование производительности и безопасности
